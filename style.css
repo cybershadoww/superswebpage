@@ -1,0 +1,28 @@
+body {
+    background-image: url(assets/images/background.png);
+}
+
+.links {
+    position: absolute;
+    right: 50px;
+    top: 43px;
+    word-spacing: 80px;
+    font-size: 20px;
+    font-family: zekton;
+    src: url(http://www.dafont.com/zekton.font);
+}
+
+.title{
+    position: absolute;
+    left: 40px;
+    font-family: zekton;
+    font-size: 20px;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+}
